@@ -24,7 +24,7 @@
     - SQL
     - HTML 
     - CSS 
-    - Java (basic), C++ (basic), Javascript (basic)
+    - Java (basic), C++ (basic), Javascript (basic), C# (basic)
     - Git, Github
     - PyCharm, SQLite, PostrgreSQL, MySQL, VSCode, Visual Studio,  IntelliJ IDEA
 
